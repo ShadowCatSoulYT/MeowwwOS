@@ -24,9 +24,8 @@ Send an issue and I’ll try to fix it, but my brain’s got 4KB RAM so don’t 
 
 
 ## I love it  
-I love you  
+I love you
 
----
 
 ## Are you mental?  
 Yes.
