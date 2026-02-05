@@ -1,0 +1,11 @@
+# Build artifacts
+*.o
+*.bin
+*.iso
+isodir/
+obj/
+
+# Replit specific
+.replit
+replit.nix
+replit.md
